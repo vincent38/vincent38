@@ -37,7 +37,7 @@ Also a train spotter :railway_track:, not that much geek on the field, but I lik
 
 ## Misc.
 
-2018-2019 in :japan: : :hotsprings::jack_o_lantern::christmas_tree::beach_umbrella::tanabata_tree:
+2018-2019 in :japan: : :hotsprings::jack_o_lantern::christmas_tree::beach_umbrella::tanabata_tree: - 
 Proudly completed the Tokyo to Hiroshima Local Train :train: circuit (not Shinkansen !) in around 14-15 hours.
 
 Almost completed the Paris - Lyon - Marseille Local Train Circuit.
