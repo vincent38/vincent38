@@ -27,7 +27,7 @@ You can also check out my personal website [here](https://aubriot.ovh/). I hope 
 A good old "Gaming Laptop" with a Win10/Ubuntu dualboot. I'm often on the Win10 side for gaming and dev, but I tend to be as versatile as possible.
 No script to automate a daily/weekly repetitive task, nor config file duplicated in a repo and ready to fire whenever I install a new computer. I always considered writing some, but I have no valid usecase that may require it (too many different things at once).
 
-I used various languages, libraries and frameworks (languages list, not exhaustive and not in order: C, C++, HTML/CSS/PHP, Java, Python, Javascript)
+I used/use/heard of various languages, libraries and frameworks (languages list, not exhaustive and not in order: C, C++, HTML/CSS/PHP, Java, Python, Javascript)
 
 ## My leisure :lotus_position:
 
