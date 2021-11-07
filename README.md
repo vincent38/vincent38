@@ -4,9 +4,9 @@ I'm Vincent, a student in second year of graduate school in Computer Science at 
 
 ## My studies :student:
 
-I am currently following the [Master of Science in Informatics at Grenoble](https://mosig.imag.fr/) program (Graduate School of Science in Informatics - taught in English), and especially the [Data Science and Artificial Intelligence](https://mosig.imag.fr/IASD/IASD) specialization. I've started the Master in September 2020, and I will graduate around June 2022 (if everything goes well).
+I am currently following the [Master of Science in Informatics at Grenoble](https://mosig.imag.fr/) program (Graduate School of Science in Informatics - taught in English), and especially the [Data Science and Artificial Intelligence](https://mosig.imag.fr/IASD/IASD) specialization. I've started the Master in September 2020, and will graduate around June 2022.
 
-This is a Master with a particulaer status, as it is managed by both the Grenoble INP Ensimag, and the Grenoble-Alpes University.
+This is a Master with a particular status, as it is managed by both the Grenoble INP Ensimag, and the Grenoble-Alpes University.
 
 Furthermore, I have several more diplomas achieved earlier on:
 
