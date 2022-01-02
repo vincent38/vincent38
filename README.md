@@ -1,6 +1,8 @@
-### Thanks for stopping by ! :wave: 
+# Thanks for stopping by ! :wave: 
 
 I'm Vincent, a student in second year of graduate school in Computer Science at the Grenoble-Alpes University (France).
+
+Last update of this intro: 02/01/2022
 
 ## My studies :student:
 
@@ -20,7 +22,7 @@ This account is mainly used to publish my experiments, some academical works, an
 
 Most of the code written there is private, for various reasons. There are no plans as of now to disclose them (but nothing is set in stone, and I don't exclude the fact of releasing old projects at some point in the future :thought_balloon: )
 
-You can also check out my personal website [here](https://aubriot.ovh/). I hope to be able to update it by the end of Q4'21, but it contains a good share of my resume, and some exclusive projects that I can't disclose directly on Github.
+You can also check out my personal website [here](https://aubriot.ovh/). ~~I hope to be able to update it by the end of Q4'21~~ I finally found some time to rewrite entirely the boilerplate before Q1'22 ! I won't release the code for now, as it is quite self-centered to my needs and not fitted to be run as it is, and some features are still not implemented, but maybe at some point in the future... It contains a good share of my resume, and some exclusive projects that I can't disclose directly on Github.
 
 ## My stack :computer:
 
