@@ -33,7 +33,7 @@ I used/use/heard of various languages, libraries and frameworks (languages list,
 
 ## My leisure :lotus_position:
 
-When I'm reaching my limit, I stop working and either play a video game, go out for a trip around the city by feet/bus/tramway/train (oddly specific), or I just do nothing.
+I usually play some video games, go out for a trip around the city by feet/bus/tramway/train (oddly specific), or I just do nothing.
 Big arcade rhythm player :joystick: (sadly my nearest game center is 1+ hour away by train), especially maimai, SDVX, Jubeat, sometimes DDR and PIU.
 Also a train spotter :railway_track:, not that much geek on the field, but I like to take some pictures and ride them.
 
