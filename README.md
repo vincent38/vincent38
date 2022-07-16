@@ -1,6 +1,6 @@
 # Thanks for stopping by ! :wave: 
 
-I'm Vincent, a student in second year of graduate school in Computer Science at the Grenoble-Alpes University (France).
+I'm Vincent, a student that recently graduated from graduate school in Computer Science at the Grenoble-Alpes University (France).
 
 Last update of this intro: 02/01/2022
 
