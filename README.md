@@ -2,11 +2,11 @@
 
 I'm Vincent, a student that recently graduated from graduate school in Computer Science at the Grenoble-Alpes University (France).
 
-Last update of this intro: 02/01/2022
+Last update of this intro: 16/07/2022
 
 ## My studies :student:
 
-I am currently following the [Master of Science in Informatics at Grenoble](https://mosig.imag.fr/) program (Graduate School of Science in Informatics - taught in English), and especially the [Data Science and Artificial Intelligence](https://mosig.imag.fr/IASD/IASD) specialization. I've started the Master in September 2020, and will graduate around June 2022.
+I recently followed the [Master of Science in Informatics at Grenoble](https://mosig.imag.fr/) program (Graduate School of Science in Informatics - taught in English), and especially the [Data Science and Artificial Intelligence](https://mosig.imag.fr/IASD/IASD) specialization. I've started the Master in September 2020, and graduated in July 2022.
 
 This is a Master with a particular status, as it is managed by both the Grenoble INP Ensimag, and the Grenoble-Alpes University.
 
